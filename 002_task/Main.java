@@ -5,5 +5,5 @@
 public class Main {
     Car audi = new Car();
     Car mitsubishi = new Car(2011);
-    Car mercedes = new Car(1998, "bleck/white");
+    Car mercedes = new Car(1998, "black/white");
 }
